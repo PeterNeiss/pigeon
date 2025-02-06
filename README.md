@@ -4,3 +4,9 @@ It is similar to the observer pattern but cares about lifetime issues.
 Use cases are messages, events, signal&slot and publisher&subscriber.
 Getting started by looking at the pigeon tutorial and the examples. 
 Let the pigeons fly.
+
+# Build with cmake
+mkdir build
+cd build
+cmake ..
+cmake --build .
