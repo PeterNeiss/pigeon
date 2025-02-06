@@ -5,8 +5,10 @@ Use cases are messages, events, signal&slot and publisher&subscriber.
 Getting started by looking at the pigeon tutorial and the examples. 
 Let the pigeons fly.
 
-# Build with cmake
+## Build with cmake
+```shell
 mkdir build
 cd build
 cmake ..
 cmake --build .
+```
